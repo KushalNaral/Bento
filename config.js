@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Kushal',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/KushalNaral/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox/',
 		},
 		{
 			id: '3',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YT',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -122,9 +122,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Gitlab',
+			icon: 'github',
+			link: 'http://192.168.50.225/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Liked',
+					link: 'https://www.youtube.com/playlist?list=LL',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Watch Later',
+					link: 'https://www.youtube.com/watch?v=mh_EJhH49Ms&list=WL',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Current',
+					link: 'https://www.youtube.com/watch?v=mMfxI3r_LyA&list=RDmMfxI3r_LyA&start_radio=1',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jazz',
+					link: 'https://www.youtube.com/watch?v=wcIf3huwFhc',
 				},
 			],
 		},
@@ -161,20 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/v2/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Outlook',
+					link: 'https://outlook.office.com/mail/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'GPT',
+					link: 'https://chat.openai.com/',
 				},
 			],
 		},
